@@ -28,10 +28,14 @@ Assim como demonstrado durante o desafio, realize a criação do Script SQL para
 - Entrega – Possui status e código de rastreio;
 - Algumas das perguntas que podes fazer para embasar as queries SQL:
 
-### Algumas perguntas interessantes:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Quantos pedidos foram feitos por cada cliente?
-- Algum vendedor também é fornecedor?
-- Relação de produtos fornecedores e estoques;
-- Relação de nomes dos fornecedores e nomes dos produtos;
+### Notas do projeto
+
+- Foi realizada a modelagem do banco de dados usando o Workbench do MySql;
+- Após a modelagem do projeto foi realizada a criação e feito algumas consultas no ambiente desenvolvido;
+- A criação, o inclusão de dados e as queries foram incluídos separadamente para facilitar consultas futuras;
+- Foi incluído o arquivo .mwb e uma imagem png para referências ou ajustes;
+- Minha primeira modelagem! ^^
+
 
